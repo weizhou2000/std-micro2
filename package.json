@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "micro": "^9.1.0"
+  },
+  "devDependencies": {
+    "micro-dev": "^2.2.0"
+  },
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  }
+}
